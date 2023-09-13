@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.enhanced.mixin.client",
+	"compatibilityLevel": "JAVA_17",
+	"client": [
+		"EnhancedClientMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

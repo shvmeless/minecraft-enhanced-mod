@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "enhanced",
+  "version": "${version}",
+  "name": "Enhanced Vanilla",
+  "description": "Intended to improved the vanilla experience of Minecraft, without changing the core gameplay.",
+  "authors": [
+    "Me!"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/shvmeless/minecraft-enhanced-mod"
+  },
+  "license": "MIT License",
+  "icon": "assets/enhanced/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.enhanced.Enhanced"
+    ],
+    "client": [
+      "com.enhanced.EnhancedClient"
+    ]
+  },
+  "mixins": [
+    "enhanced.mixins.json",
+    {
+      "config": "enhanced.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
