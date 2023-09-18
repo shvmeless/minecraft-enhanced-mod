@@ -1,0 +1,7 @@
+{
+  "parent": "enhanced:item/templates/slab_normal",
+  "textures": {
+    "normal": "minecraft:block/oxidized_cut_copper",
+    "slab": "minecraft:block/oxidized_cut_copper"
+  }
+}

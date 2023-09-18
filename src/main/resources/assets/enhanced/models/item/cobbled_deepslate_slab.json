@@ -1,0 +1,7 @@
+{
+  "parent": "enhanced:item/templates/slab_normal",
+  "textures": {
+    "normal": "minecraft:block/cobbled_deepslate",
+    "slab": "minecraft:block/cobbled_deepslate"
+  }
+}

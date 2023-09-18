@@ -1,0 +1,7 @@
+{
+  "parent": "enhanced:item/templates/slab_normal",
+  "textures": {
+    "normal": "minecraft:block/red_sandstone_top",
+    "slab": "minecraft:block/red_sandstone_top"
+  }
+}

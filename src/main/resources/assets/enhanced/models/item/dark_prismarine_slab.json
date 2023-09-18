@@ -1,0 +1,7 @@
+{
+  "parent": "enhanced:item/templates/slab_normal",
+  "textures": {
+    "normal": "minecraft:block/dark_prismarine",
+    "slab": "minecraft:block/dark_prismarine"
+  }
+}

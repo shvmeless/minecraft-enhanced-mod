@@ -1,0 +1,7 @@
+{
+  "parent": "enhanced:item/templates/slab_unlock",
+  "textures": {
+    "normal": "minecraft:block/prismarine_bricks",
+    "slab": "minecraft:block/prismarine_bricks"
+  }
+}

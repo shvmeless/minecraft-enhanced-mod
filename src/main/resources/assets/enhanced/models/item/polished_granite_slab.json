@@ -1,0 +1,7 @@
+{
+  "parent": "enhanced:item/templates/slab_unlock",
+  "textures": {
+    "normal": "minecraft:block/polished_granite",
+    "slab": "minecraft:block/polished_granite"
+  }
+}

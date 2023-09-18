@@ -1,0 +1,7 @@
+{
+  "parent": "enhanced:item/templates/slab_normal",
+  "textures": {
+    "normal": "minecraft:block/spruce_planks",
+    "slab": "minecraft:block/spruce_planks"
+  }
+}

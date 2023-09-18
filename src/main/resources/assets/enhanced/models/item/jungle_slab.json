@@ -1,0 +1,7 @@
+{
+  "parent": "enhanced:item/templates/slab_normal",
+  "textures": {
+    "normal": "minecraft:block/jungle_planks",
+    "slab": "minecraft:block/jungle_planks"
+  }
+}

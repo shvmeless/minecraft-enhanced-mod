@@ -1,0 +1,7 @@
+{
+  "parent": "enhanced:item/templates/slab_normal",
+  "textures": {
+    "normal": "minecraft:block/red_nether_bricks",
+    "slab": "minecraft:block/red_nether_bricks"
+  }
+}
