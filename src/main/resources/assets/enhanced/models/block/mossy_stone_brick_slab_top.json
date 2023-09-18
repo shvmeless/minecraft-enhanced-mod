@@ -1,0 +1,7 @@
+{
+  "parent": "enhanced:block/templates/slab_normal_top",
+  "textures": {
+    "normal": "minecraft:block/mossy_stone_bricks",
+    "slab": "minecraft:block/mossy_stone_bricks"
+  }
+}

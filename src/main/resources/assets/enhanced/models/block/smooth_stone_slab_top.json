@@ -1,0 +1,7 @@
+{
+  "parent": "enhanced:block/templates/slab_normal_top",
+  "textures": {
+    "normal": "minecraft:block/smooth_stone",
+    "slab": "minecraft:block/smooth_stone_slab_side"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "parent": "block/block",
+	"textures": {
+    "normal": "minecraft:block/cut_sandstone",
+    "slab": "minecraft:block/sandstone_top",
+		"particle": "#normal"
+	},
+	"elements": [
+		{
+			"from": [0, 8, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 8], "texture": "#normal"},
+				"east": {"uv": [0, 0, 16, 8], "texture": "#normal"},
+				"south": {"uv": [0, 0, 16, 8], "texture": "#normal"},
+				"west": {"uv": [0, 0, 16, 8], "texture": "#normal"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#slab"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#slab"}
+			}
+		}
+	]
+}

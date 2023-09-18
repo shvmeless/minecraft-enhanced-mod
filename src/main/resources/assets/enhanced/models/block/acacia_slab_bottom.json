@@ -1,0 +1,7 @@
+{
+  "parent": "enhanced:block/templates/slab_normal_bottom",
+  "textures": {
+    "normal": "minecraft:block/acacia_planks",
+    "slab": "minecraft:block/acacia_planks"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "enhanced:block/templates/slab_normal_bottom",
+  "textures": {
+    "normal": "minecraft:block/dark_oak_planks",
+    "slab": "minecraft:block/dark_oak_planks"
+  }
+}
