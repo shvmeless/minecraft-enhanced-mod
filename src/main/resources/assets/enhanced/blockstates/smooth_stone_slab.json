@@ -1,0 +1,35 @@
+{
+  "variants": {
+    "double=true": {
+      "model": "minecraft:block/smooth_stone",
+      "uvlock": false
+    },
+    "double=false,facing=north": {
+      "model": "enhanced:block/smooth_stone_slab_side",
+      "uvlock": false
+    },
+    "double=false,facing=east": {
+      "model": "enhanced:block/smooth_stone_slab_side",
+      "uvlock": false,
+      "y": 90
+    },
+    "double=false,facing=south": {
+      "model": "enhanced:block/smooth_stone_slab_side",
+      "uvlock": false,
+      "y": 180
+    },
+    "double=false,facing=west": {
+      "model": "enhanced:block/smooth_stone_slab_side",
+      "uvlock": false,
+      "y": 270
+    },
+    "double=false,facing=up": {
+      "model": "enhanced:block/smooth_stone_slab_top",
+      "uvlock": false
+    },
+    "double=false,facing=down": {
+      "model": "enhanced:block/smooth_stone_slab_bottom",
+      "uvlock": false
+    }
+  }
+}
