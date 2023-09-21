@@ -2,6 +2,6 @@
   "parent": "enhanced:block/templates/slab_unlock_side",
   "textures": {
     "normal": "minecraft:block/quartz_block_side",
-    "slab": "minecraft:block/quartz_block_side"
+    "slab": "enhanced:block/quartz_slab"
   }
 }

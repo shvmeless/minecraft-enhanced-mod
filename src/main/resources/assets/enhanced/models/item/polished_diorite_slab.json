@@ -2,6 +2,6 @@
   "parent": "enhanced:item/templates/slab_unlock",
   "textures": {
     "normal": "minecraft:block/polished_diorite",
-    "slab": "minecraft:block/polished_diorite"
+    "slab": "enhanced:block/polished_diorite_slab"
   }
 }

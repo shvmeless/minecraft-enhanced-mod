@@ -2,6 +2,6 @@
   "parent": "enhanced:block/templates/slab_normal_bottom",
   "textures": {
     "normal": "minecraft:block/polished_blackstone",
-    "slab": "minecraft:block/polished_blackstone"
+    "slab": "enhanced:block/polished_blackstone_slab"
   }
 }

@@ -2,6 +2,6 @@
   "parent": "enhanced:block/templates/slab_normal_top",
   "textures": {
     "normal": "minecraft:block/polished_granite",
-    "slab": "minecraft:block/polished_granite"
+    "slab": "enhanced:block/polished_granite_slab"
   }
 }

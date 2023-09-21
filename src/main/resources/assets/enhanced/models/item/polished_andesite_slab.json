@@ -2,6 +2,6 @@
   "parent": "enhanced:item/templates/slab_unlock",
   "textures": {
     "normal": "minecraft:block/polished_andesite",
-    "slab": "minecraft:block/polished_andesite"
+    "slab": "enhanced:block/polished_andesite_slab"
   }
 }
