@@ -1,7 +1,7 @@
 {
   "parent": "block/block",
 	"textures": {
-    "normal": "minecraft:block/cut_sandstone",
+    "normal": "enhanced:block/cut_sandstone_slab",
     "slab": "minecraft:block/sandstone_top",
 		"particle": "#normal"
 	},
