@@ -2,7 +2,7 @@
 	"parent": "block/block",
 	"textures": {
     "normal": "minecraft:block/cut_sandstone",
-    "slab": "minecraft:block/sandstone_top",
+    "slab": "enhanced:block/smooth_sandstone",
 		"particle": "#normal"
 	},
 	"elements": [

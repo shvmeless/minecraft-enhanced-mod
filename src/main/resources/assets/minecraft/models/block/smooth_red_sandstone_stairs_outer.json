@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "enhanced:block/smooth_red_sandstone",
+    "side": "enhanced:block/smooth_red_sandstone",
+    "top": "enhanced:block/smooth_red_sandstone"
+  }
+}
