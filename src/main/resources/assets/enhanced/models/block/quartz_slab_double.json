@@ -1,0 +1,7 @@
+{
+  "parent": "enhanced:block/templates/slab_double",
+  "textures": {
+    "normal": "minecraft:block/quartz_block_side",
+    "slab": "enhanced:block/quartz_slab"
+  }
+}

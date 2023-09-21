@@ -1,7 +1,33 @@
 {
   "variants": {
-    "double=true": {
-      "model": "minecraft:block/quartz_block",
+    "double=true,facing=north": {
+      "model": "enhanced:block/quartz_slab_double",
+      "uvlock": false,
+      "x": 90
+    },
+    "double=true,facing=east": {
+      "model": "enhanced:block/quartz_slab_double",
+      "uvlock": false,
+      "x": 90,
+      "y": 90
+    },
+    "double=true,facing=south": {
+      "model": "enhanced:block/quartz_slab_double",
+      "uvlock": false,
+      "x": 90
+    },
+    "double=true,facing=west": {
+      "model": "enhanced:block/quartz_slab_double",
+      "uvlock": false,
+      "x": 90,
+      "y": 90
+    },
+    "double=true,facing=up": {
+      "model": "enhanced:block/quartz_slab_double",
+      "uvlock": false
+    },
+    "double=true,facing=down": {
+      "model": "enhanced:block/quartz_slab_double",
       "uvlock": false
     },
     "double=false,facing=north": {
