@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "enhanced:cut_copper_slab",
+    "enhanced:exposed_cut_copper_slab",
+    "enhanced:weathered_cut_copper_slab",
+    "enhanced:oxidized_cut_slab",
+    "enhanced:waxed_cut_copper_slab",
+    "enhanced:waxed_exposed_cut_copper_slab",
+    "enhanced:waxed_weathered_cut_copper_slab",
+    "enhanced:waxed_oxidized_cut_slab"
+  ]
+}

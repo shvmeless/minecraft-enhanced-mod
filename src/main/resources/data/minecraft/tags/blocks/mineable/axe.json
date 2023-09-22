@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "enhanced:oak_slab",
+    "enhanced:spruce_slab",
+    "enhanced:birch_slab",
+    "enhanced:jungle_slab",
+    "enhanced:acacia_slab",
+    "enhanced:dark_oak_slab",
+    "enhanced:mangrove_slab",
+    "enhanced:cherry_slab",
+    "enhanced:bamboo_slab",
+    "enhanced:bamboo_mosaic_slab",
+    "enhanced:crimson_slab",
+    "enhanced:warped_slab"
+  ]
+}
